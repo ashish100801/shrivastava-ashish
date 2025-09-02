@@ -5,7 +5,7 @@ Recent Graduate
 ---------------
 
 * 🌍  I'm based in New Delhi, India
-* ✉️  You can contact me at [ashishshrivastava100801@gmail.com](mailto:smartashishg442@gmail.com)
+* ✉️  You can contact me at [smartashishg442@gmail.com](mailto:smartashishg442@gmail.com)
 * 🧠  I'm learning MERN Stack Development
 * 🤝  I'm open to collaborating on Full Stack Projects
 * ⚡  I'm an Introvert -- Don't tell anyone
